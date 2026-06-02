@@ -392,7 +392,7 @@ Time-series-analysis-TDA/
 │   └── processed/
 │       ├── household_power_consumption_cleaned.csv
 │       ├── household_power_consumption_daily.csv
-│       ├── features_daily.csv
+│       ├── Global_active_power_daily.csv
 │       └── tda_features.csv
 │
 ├── notebooks/
