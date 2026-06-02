@@ -402,7 +402,7 @@ Time-series-analysis-TDA/
 │   ├── 04_deep_learning_forecasting.ipynb
 │   └── 05_tda_feature_engineering_and_evaluation.ipynb
 │
-├── src/             # 整理して順次追加予定
+├── src/             # 今後追加予定
 ├── README.md
 └── requirements.txt
 ```
