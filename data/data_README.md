@@ -8,8 +8,7 @@
 
 以下の公式ページからダウンロードしてください。
 
-- UCI Machine Learning Repository
-- Individual Household Electric Power Consumption Dataset
+- UCI Machine Learning Repository - Individual Household Electric Power Consumption Dataset
 
 ## 配置方法
 
@@ -17,5 +16,5 @@
 
 ```text
 data/
-  raw/
-    household_power_consumption.txt
+└── raw/
+    └── household_power_consumption.txt
