@@ -402,23 +402,7 @@ Time-series-analysis-TDA/
 │   ├── 04_deep_learning_forecasting.ipynb
 │   └── 05_tda_feature_engineering_and_evaluation.ipynb
 │
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── evaluation.py
-│   └── tda_features.py
-│
-├── results/
-│   ├── statistical_model_results.csv
-│   ├── machine_learning_results.csv
-│   ├── deep_learning_results.csv
-│   └── tda_comparison_results.csv
-│
-├── figures/
-│   ├── model_comparison.png
-│   ├── prediction_comparison.png
-│   └── tda_persistence_diagram.png
-│
+├── src/             # 整理して順次追加予定
 ├── README.md
 └── requirements.txt
 ```
