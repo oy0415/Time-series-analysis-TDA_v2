@@ -406,6 +406,7 @@ Time-series-analysis-TDA/
 ├── README.md
 └── requirements.txt
 ```
+※元データは容量の都合によりGitHubには含めていません。取得方法は data/data_README.md を参照してください。
 
 ---
 
